@@ -1,1 +1,1 @@
-Hi This is Amit
+Hi This is Amit. This is a Git Lesson
